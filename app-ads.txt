@@ -10,6 +10,12 @@ bidmachine.io,1,DIRECT
 
 bidmachine.io,466,DIRECT
 
+#Meta-Audience
+
+#Replace the Business_ID below with your Meta Business ID
+
+facebook.com,2234965810352398,RESELLER,c3e20eee3f780d68
+
 #Add other networks if applicable
 
 #Resellers
