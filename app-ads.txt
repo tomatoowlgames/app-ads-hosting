@@ -3,3 +3,6 @@ google.com, pub-6548705933054105, DIRECT, f08c47fec0942fa0
 
 # Meta Audience Network
 facebook.com, 1776182140284560, DIRECT
+
+# ironSource Ads
+ironsource.com, 285f98875, DIRECT
